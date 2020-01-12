@@ -41,3 +41,10 @@ Released on OCT 03, 2019 - GMT+8
 [+] Modified for Python 3.7.x  
 
 ## Usage
+
+```bash
+cd sandcastle
+python3 sandcastle.py -h
+<br>
+python3 sandcastle.py -t shopify -b bucket-names.txt
+```
