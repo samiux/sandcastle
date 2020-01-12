@@ -44,7 +44,8 @@ Released on OCT 03, 2019 - GMT+8
 
 ```bash
 cd sandcastle
+
 python3 sandcastle.py -h
-<br>
+
 python3 sandcastle.py -t shopify -b bucket-names.txt
 ```
